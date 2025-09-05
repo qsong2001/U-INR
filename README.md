@@ -3,8 +3,6 @@ Official implementation of U-INR: Unified Steganography via Implicit Neural Repr
 
 ** Released demo code **
 
-More demo codes for images, videos, NeRF, and SDF will be released soon.
-
 
 We are very grateful for the open-source projects: [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch), [siren](https://github.com/vsitzmann/siren), and [PUSNet](https://github.com/albblgb/PUSNet).
 
